@@ -1,2 +1,2 @@
-# GPA_Fase3
-Desarrollo de la Fase 3
+# GPA_Tareas
+Desarrollo de las fases de el curso Programación para el Análisis de Datos
